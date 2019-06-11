@@ -3,3 +3,4 @@ makeInt ('NAN',
 return parseInt (10)
 preserveDecimal ('N,'
 )
+return parseFloat ('N')
